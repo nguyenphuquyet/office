@@ -1,7 +1,5 @@
 # OFFICE 365 PROLUS #
 
-![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
-
 ## CÀI ĐẶT OFFICE ##
 - Source office 365 Prolus:
   - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img
